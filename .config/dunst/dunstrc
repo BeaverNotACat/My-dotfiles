@@ -100,7 +100,7 @@
 
     # Normal urgency notifications
     background = "#000000c0"
-    foreground = "#ffd866"
+    foreground = "#fcfcfa"
     timeout = 6
 
 [urgency_critical]
